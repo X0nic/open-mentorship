@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: open-mentorship.html
 ---
 
 **#OpenMentorship** is a simple concept: I'm donating my time and knowledge to anyone who could use it. Here are a few areas where I think I might be able to help:
